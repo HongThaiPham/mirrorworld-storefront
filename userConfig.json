@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "B4oQzVueNxLTbww45VCAq2oU9DwLttQfbkjvNqkmJxNa"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_QuKwrbsgAj9z46CHZBR8XkbEcfutgVzsnIy",
+  "serviceFee": 1,
+  "currencyOption": "SOL",
+  "name": "Store LE",
+  "logo": "https://collections.mirrorworld.fun/1677344835018-Screen Shot 2022-10-31 at 20.49.11.png"
 }
