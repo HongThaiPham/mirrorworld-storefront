@@ -1,11 +1,12 @@
 {
   "collections": [
-    "B4oQzVueNxLTbww45VCAq2oU9DwLttQfbkjvNqkmJxNa"
+    "B4oQzVueNxLTbww45VCAq2oU9DwLttQfbkjvNqkmJxNa",
+    "DUuMbpmH3oiREntViXfGZhrLMbVcYBwGeBa4Wn9X8QfM"
   ],
   "network": "devnet",
   "xApiKey": "mw_QuKwrbsgAj9z46CHZBR8XkbEcfutgVzsnIy",
   "serviceFee": 1,
   "currencyOption": "SOL",
   "name": "Store LE",
-  "logo": "https://collections.mirrorworld.fun/1677344835018-Screen Shot 2022-10-31 at 20.49.11.png"
+  "logo": ""
 }
